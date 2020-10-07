@@ -1,7 +1,7 @@
 5 + 6
 --> 11
 
-//or
+//eller
 
 'Hello' + 'world'
 --> 'Hello world'
