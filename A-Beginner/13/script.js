@@ -1,8 +1,8 @@
-const userInput = prompt('Less than hundred?')
-const num1 = parseInt(userInput)
+// const userInput = prompt('Less than hundred?')
+// const num = parseInt(userInput)
 
-function lessThanHundred() {                      
-  num1 = num 
+function lessThanHundred(num) {     
+    num = prompt('Less than hundred?')
     if (num < 100) {
     return true
 } else if(num >= 100) {
